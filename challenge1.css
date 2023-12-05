@@ -112,6 +112,8 @@ p {
     display: block;
     margin: 5px auto;
     max-width: 150px;
+    width: 100%;
+    height: auto;
 }
 
 .search-engine-optimization,
@@ -128,7 +130,7 @@ p {
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 200px; 
 }
 
 .search-engine-optimization h2,
