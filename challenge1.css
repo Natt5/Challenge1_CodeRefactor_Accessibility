@@ -59,7 +59,7 @@ p {
     height: 500px;
     width: 100%;
     margin-bottom: 30px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
